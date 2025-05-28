@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Balabhdra Jena (aka rezcodes)
+# 👋 Hey, I'm Balabhadra Jena (aka rezcodes)
 
 🎯 Aspiring Data Scientist | Ethical Hacking Enthusiast | Lifelong Learner | Exploring Web Dev
 
